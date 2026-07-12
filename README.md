@@ -1,4 +1,4 @@
-# Iris Classification — Data Classification Using AI
+# Iris Classification — Data Classification - Decodelabs - Project-2
 
 > **DecodeLabs Industrial Training Kit · Project 2 · Batch 2026**
 
