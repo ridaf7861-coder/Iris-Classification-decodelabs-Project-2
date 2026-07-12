@@ -1,12 +1,9 @@
 # Iris Classification — Data Classification - Decodelabs - Project-2
 
-> **DecodeLabs Industrial Training Kit · Project 2 · Batch 2026**
-
 A supervised machine learning project that trains an AI model to classify Iris
 flowers into their correct species. It walks through the complete
 classification pipeline — **Load → Understand → Split → Train → Validate → Predict** —
 and compares four classic algorithms, with the linear SVM reaching **100% test accuracy**.
-
 ---
 
 ## 🎯 Overview
